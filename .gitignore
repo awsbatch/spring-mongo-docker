@@ -37,4 +37,4 @@ node_modules/
 .tmp/
 *.log
 /bin/
-/target/
+#/target/
